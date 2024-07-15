@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Vasudevan-S
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning DSA
+- 👋 Hi, I’m @Vasudevan.S
 - 📫 reach me at @vasudeadshot@gmail.com
 
 <!---
